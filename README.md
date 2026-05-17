@@ -2,10 +2,6 @@
 
 A UNET model with a ResNet-34 encoder trained on multi-modal MRI scans to automatically segment brain tumors, achieving an IoU score of 0.65 on the validation set.
 
-**Course:** AI 395T — AI in Healthcare | UT Austin  
-**Author:** Vinh Nguyen (VHN354)  
-**Date:** December 4, 2024
-
 ---
 
 ## Overview
